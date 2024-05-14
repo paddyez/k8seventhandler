@@ -1,0 +1,7 @@
+= Build
+
+[source,go]
+----
+// Create binary
+ go build main.go
+----
